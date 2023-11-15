@@ -1,11 +1,11 @@
 package Utils;
 
 
-public class Practice{
+public class Cart{
 
 }
 
 /*This is a list of shopping items:
 1.Apple
-2.Strawberrries
+2.Strawberries
 3.Bananas*/
